@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahir Alberto Samperio</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AWS & React Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | AWS </h3>
 
 - 👨‍💻 I’m a **Software Engineer** currently working at **XalDigital**, focused on backend and cloud technologies
 
