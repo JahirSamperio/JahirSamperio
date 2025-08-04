@@ -9,7 +9,7 @@
 
 - ☁️ Hands-on experience with **AWS Lambda**, **ECS (Elastic Container Service)**, **S3**, **CloudFront**, and **Route 53** for deployment, scaling, and delivery
 
-- 💬 Ask me about **REST APIs, SQL performance, serverless architecture, or full stack development with React**
+- 💬 Ask me about **REST APIs, SQL performance, serverless architecture, or full stack development with React and Node js**
 
 - 📫 Reach me at: **jahirsampe1234@gmail.com**
 
